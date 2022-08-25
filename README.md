@@ -10,7 +10,7 @@ I'm Lucas from Thuringia, Germany and currently studying computer science. The m
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=16 height=16/> Flutter & Dart
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width=16 height=16/> CMake & QMake
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=16 height=16/> Docker & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 height=16/> Kubernetes
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" width=16 height=16/> Bamboo (DevOps)
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" width=16 height=16/> Bamboo
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=16 height=16/> Firebase
 
 
