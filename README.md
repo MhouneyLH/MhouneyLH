@@ -1,6 +1,6 @@
 <img src="programming.gif" width=200/>
 
-# Lucas Hünniger 🐔
+# Lucas Hünniger 👾
 I'm Lucas from Thuringia, Germany and currently studying computer science. The most part of the rest of my time I enjoy contributing to open-source-projects or working on own ones.
 
 
