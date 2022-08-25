@@ -24,4 +24,4 @@ I'm Lucas from Thuringia, Germany and currently studying computer science. The m
 @todo: have to add this
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhouneyLH)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhouneyLH&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
