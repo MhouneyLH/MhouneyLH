@@ -3,7 +3,7 @@ I'm Lucas from Thuringia, Germany and currently studying computer science. The m
 
 ### Skills & Experience
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=16 height=16/> C++ (especially with QT-Framework) 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=16 height=16/> C
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=16 height=16/> Flutter & Dart
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width=16 height=16/> CMake & QMake
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=16 height=16/> Docker & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 height=16/> Kubernetes
