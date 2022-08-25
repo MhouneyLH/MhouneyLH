@@ -1,7 +1,8 @@
+<img src="programming.gif" width=200/>
+
 # Lucas Hünniger 🐔
 I'm Lucas from Thuringia, Germany and currently studying computer science. The most part of the rest of my time I enjoy contributing to open-source-projects or working on own ones.
 
-<img src="programming.gif" width=200/>
 
 ## Skills & Experience
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=16 height=16/> C++ (especially with QT-Framework) 
@@ -12,14 +13,15 @@ I'm Lucas from Thuringia, Germany and currently studying computer science. The m
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" width=16 height=16/> Bamboo (DevOps)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=16 height=16/> Firebase
 
+
 ## What I'm currently working on / learning
 * Usage of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=16 height=16/> Docker and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 height=16/> Kubernetes as well a general DevOps
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=16 height=16/> C++ with QT-Framework
 * 📱 Mobile Development with Flutter / Dart
 
+
 # Examples of Work
 @todo: have to add this
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhouneyLH)](https://github.com/anuraghazra/github-readme-stats)
