@@ -1,7 +1,7 @@
 # Lucas Hünniger
 I'm Lucas from Thuringia, Germany and currently studying computer science. The most part of the rest of my time I enjoy contributing to open-source-projects or working on own ones.
 
-<script src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166.js"></script>
+
 
 ## Skills & Experience
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=16 height=16/> C++ (especially with QT-Framework) 
