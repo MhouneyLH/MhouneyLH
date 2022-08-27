@@ -15,7 +15,7 @@ I'm Lucas from Thuringia, Germany and currently studying computer science. The m
 
 
 ## What I'm currently working on / learning
-* Usage of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=16 height=16/> Docker and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 height=16/> Kubernetes as well a general DevOps
+* Usage of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=16 height=16/> Docker and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=16 height=16/> Kubernetes as well as general DevOps
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=16 height=16/> C++ with QT-Framework
 * 📱 Mobile Development with Flutter / Dart
 
