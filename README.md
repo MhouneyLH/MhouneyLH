@@ -1,5 +1,3 @@
-<img src="programming.gif" width=200/>
-
 # Lucas Hünniger 👾
 I'm Lucas from Thuringia, Germany and currently studying computer science. The most part of the rest of my time I enjoy contributing to open-source-projects or working on own ones.
 
@@ -25,3 +23,5 @@ I'm Lucas from Thuringia, Germany and currently studying computer science. The m
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhouneyLH&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MhouneyLH&theme=blue-green)](https://dev.to/envoy_/150-badges-for-github-pnk)
