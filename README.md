@@ -6,4 +6,11 @@ My current focus is on Software Architecture, Backend development and DevOps, bu
 
 I'm always open to Open Source contributions and new projects!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhouneyLH&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+(The stats only show information about public repositories...)
+
+<a href="https://github.com/MhouneyLH" style="display: inline-block; margin-right: 20px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhouneyLH&theme=radical&show_icons=true" />
+</a>
+<a href="https://github.com/MhouneyLH" style="display: inline-block;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhouneyLH&size_weight=1&count_weight=0&langs_count=8&theme=radical&hide=jupyter%20notebook,vba,shaderlab" />
+</a>
