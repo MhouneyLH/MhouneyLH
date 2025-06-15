@@ -6,8 +6,6 @@ My current focus is on Software Architecture, Backend development and DevOps, bu
 
 I'm always open to Open Source contributions and new projects!
 
-(The stats only show information about public repositories...)
-
 <a href="https://github.com/MhouneyLH" style="display: inline-block; margin-right: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MhouneyLH&theme=radical&show_icons=true" />
 </a>
